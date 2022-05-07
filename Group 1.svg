@@ -1,0 +1,13 @@
+<svg width="1920" height="5400" viewBox="0 0 1920 5400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1920" height="1080" fill="white"/>
+<rect y="2160" width="1920" height="1080" fill="white"/>
+<rect y="1080" width="1920" height="1080" fill="white"/>
+<rect y="3240" width="1920" height="1080" fill="white"/>
+<rect y="4320" width="1920" height="1080" fill="white"/>
+<path d="M0 1080V0L1920 1080H0Z" fill="#9E50EB"/>
+<path d="M0 3240V2160L1920 3240H0Z" fill="#DBB7FF"/>
+<path d="M1920 1080L1920 2160L-9.44166e-05 1080L1920 1080Z" fill="#9E50EB"/>
+<path d="M1920 3240L1920 4320L-9.44166e-05 3240L1920 3240Z" fill="#DBB7FF"/>
+<path d="M0 2160L0 1080L1920 2160H0Z" fill="#B378ED"/>
+<path d="M1920 2160L1920 3240L-9.44166e-05 2160L1920 2160Z" fill="#B378ED"/>
+</svg>
